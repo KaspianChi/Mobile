@@ -13,3 +13,11 @@
 [Ссылка на отчет о багах](https://github.com/KaspianChi/Mobile/blob/main/Bugs%20from%20Demchilo%20Dmitry.xlsx)
 
 [Ссылка на общий отчет о тестировании](https://github.com/KaspianChi/Mobile/blob/main/Отчет%20о%20тестировании%20Демчило%20Дмитрия.docx)
+
+---
+
+### Charles Proxy для Android и Android Studio.
+[Ссылка на видео](https://github.com/KaspianChi/Mobile/commit/d0696e919b21bed0f715cd502b78795df094f707)
+
+[Ссылка на видео на Google Drive](https://drive.google.com/file/d/1uS94n8etd_R0YCUAK8_vBTHP4LocXH4x/view?usp=sharing)
+
